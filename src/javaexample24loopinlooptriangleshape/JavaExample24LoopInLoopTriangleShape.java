@@ -11,8 +11,7 @@ public class JavaExample24LoopInLoopTriangleShape {
         
         Scanner in =new Scanner(System.in);
         int heighT=0;
-        int j=1, k=1;
-        int i=1;
+        int j=1;
         
         System.out.print("Enter triangle heigh: ");
         heighT=GetInteger(in);
